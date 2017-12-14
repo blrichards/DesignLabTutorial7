@@ -347,7 +347,7 @@ public class MinHeapArrayInvariant2Test {
 }
 ```
 
-### Suggestions
+#### Suggestions
 
 1. Correct `toString()`
 
